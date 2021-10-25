@@ -128,6 +128,15 @@ section {
       padding: 10px 20px;
       font-size: 16px;
   }
+
+  .hero-cta h2 {
+      color: #fce138;
+  }
+
+  .hero p {
+      color: #fff;
+  }
+
 /* Hero Style End */
 
 /* what we do section */
